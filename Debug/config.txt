@@ -1,0 +1,15 @@
+uRadiusForCircleBrightnessCalculator = 11
+fThresholdForSimpleThresholdFilter = 0.2
+uMedianSizeForBetterThresholdFilter = 15
+sLoggerType = file
+sFileLoggerOutput = output.log
+sFileOpenerType = tiff
+sCatalogueFilePath = 79_34_1deg_max15.tsv
+fMaximalMagnitude = 15
+sStarsExtractor = test
+sThresholdFilter = better
+sRefStarsProvider = gaia
+sFileOpener = tiff
+sBrightnessCalculator = circle
+uMaxStarsLoaded = 999999
+sFeaturesExtractor = test
